@@ -1,0 +1,22 @@
+{
+  "name": "one_plus_one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinirait/one_plus_one.git"
+  },
+  "author": "Farid and Tinirait",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tinirait/one_plus_one/issues"
+  },
+  "homepage": "https://github.com/tinirait/one_plus_one#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
